@@ -1,1 +1,26 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: #27066d;
+}
+
+.container{
+    padding: 40px;
+}
+
+.page{
+    text-align:center;
+}
+
+.btn{
+    border-radius: 5px;
+    background: #8abff5;
+    color: #333;
+    padding: 20px;
+    width: 200px;
+    margin: 10px 0;
+    border:none;
+}

@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Observables"
+    }
+  },
+  "defaultProject": "Observables",
+  "cli": {
+    "analytics": false
+  }
 }
